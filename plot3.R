@@ -30,3 +30,4 @@ legend(x = "topright", legend = c("Sub_metering_1",
        col = c(1,2,3), lty = 1)
 dev.off()
 
+print("Output is in file plot3.png")

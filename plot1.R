@@ -22,3 +22,4 @@ hist(power$Global_active_power,
      col = "red")
 dev.off()
 
+print("Output is in file plot1.png")

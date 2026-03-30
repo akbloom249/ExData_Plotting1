@@ -23,3 +23,4 @@ axis(1, at = c(min(power$DateTime), mean(power$DateTime),
      labels=c("Thu", "Fri", "Sat"))
 dev.off()
 
+print("Output is in file plot2.png")

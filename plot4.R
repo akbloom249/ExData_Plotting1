@@ -55,3 +55,4 @@ axis(1, at = c(min(power$DateTime), mean(power$DateTime),
 
 dev.off()
 
+print("Output is in file plot4.png")
